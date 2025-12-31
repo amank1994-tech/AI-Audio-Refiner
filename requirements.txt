@@ -1,0 +1,5 @@
+whisper==1.1.10
+TTS==0.22.0
+gradio==4.15.0
+torch==2.1.0
+numpy==1.26.2
