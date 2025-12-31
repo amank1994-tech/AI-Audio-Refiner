@@ -2,3 +2,5 @@ __pycache__/
 *.wav
 *.mp3
 *.env
+*.mp4
+!demo_video.mp4
